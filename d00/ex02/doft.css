@@ -1,0 +1,66 @@
+body {
+	background-color: #505050;
+}
+.first{
+	background-color: #909090;
+	margin: 24px 315px;
+	border-radius: 14px;
+	height: 185px;
+	box-shadow: 13px 13px 20px;
+}
+.day{
+	padding-top: 0px;
+	padding-left: 3px;
+	padding-bottom: 7px;
+	height: auto;
+	width: 575px;
+}
+.loupe{
+	width: auto;
+	height: 198px;
+	position: absolute;
+	margin-top: -78px;
+	padding-left: 938px;
+}
+.close{
+	width: 27px;
+	height: auto;
+	padding-left: 1280px;
+}
+.reload{
+	width: 27px;
+	height: auto;
+	padding-top: 1px;
+	padding-left: 1280px;
+	padding-bottom: 104px;
+	padding-right: 10px;
+}
+
+.all{
+	text-align: center;
+	width: 2000px;
+}
+
+.side{
+	margin-top: 4px;
+	float: left;
+	text-align: center;
+	background-color: #909090;
+	border-radius: 14px;
+	width: 186px;
+	height: 600px;
+	box-shadow: 13px 13px 20px;
+}
+.five, .book, .towel{
+	height: auto;
+	width: 100px;
+}
+.big{
+	margin-top: 4px;
+	float: left;
+	border-radius: 14px;
+	width: 500px;
+	height: 787px;
+	background-color: #909090;
+	box-shadow: 13px 13px 20px;
+}
