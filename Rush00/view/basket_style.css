@@ -1,0 +1,41 @@
+.product-list-plate p {
+	 color: white;
+ }
+a {
+text-decoration: none;
+	color: snow;
+	font-weight: bolder;
+}
+
+.product-list-plate span {
+	color: red;
+	white-space: pre-wrap;
+}
+
+.total {
+	text-decoration: none;
+	position: absolute;
+	z-index: 70;
+	margin-top: 80px;
+	margin-left: 45%;
+
+	background-color: red;
+	color: deeppink;
+	color: snow;
+	white-space: nowrap;
+}
+.total p {
+	text-align: center;
+	font-weight: bolder;
+
+}
+
+
+.total div {
+	margin: 20px 20px;
+
+}
+
+.total:hover {
+	background-color: lawngreen;
+}

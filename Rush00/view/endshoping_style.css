@@ -1,0 +1,24 @@
+.main-endshoping{
+	position: fixed;
+margin-left: 30%;
+	margin-top: 4%;
+	white-space: nowrap;
+	/*overflow: hidden;*/
+	text-overflow: ellipsis;
+}
+
+.end-shoping {
+	display: flex;
+	width: 100%;
+	heigth: 100%;
+}
+
+.end-shoping span {
+	display: flex;
+	text-align: center;
+	color: red;
+	font-weight: bolder;
+	font-size: 100px;
+
+}
+
