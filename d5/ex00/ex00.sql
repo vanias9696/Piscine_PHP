@@ -1,1 +1,1 @@
-CREATE DATABASE bd_ismus;
+CREATE DATABASE db_ismus;

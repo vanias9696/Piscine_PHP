@@ -1,2 +1,2 @@
-DELETE FROM bd_ismus.ft_table
+DELETE FROM db_ismus.ft_table
 LIMIT 5;
